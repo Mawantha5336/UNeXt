@@ -6,8 +6,6 @@
 - [Installation](#installation)
 - [Dataset](#dataset)
 - [Results](#results)
-- [Video Segmentation](#video-segmentation)
-- [References](#references)
 
 ## Introduction
 
