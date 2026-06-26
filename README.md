@@ -75,13 +75,3 @@ These results were obtained from the best model we trained in our reimplementati
 | **Dataset**                       | BUSI                     | BUSI                      |
 
 
-## Video-Segmentation
-Using the UNeXt's lightweight structure we inferenced on  Breast Ultrasound video footage to achieve real time segmentation at 40 fps. We also tested this on a Raspberry Pi 4 model B with 2 GB RAM, which resulted in a segmentation at 5 fps. We used the [Breast Ultrasound Video Dataset](https://paperswithcode.com/dataset/breast-lesion-detection-in-ultrasound-video) for video data. The result is as follows.
-
-
-
-
-## References
-
-- [UNeXt: MLP-based Rapid Medical Image Segmentation Network](https://arxiv.org/abs/2203.04967)
-- Official UNeXt Implementation: [GitHub Repository](https://github.com/jeya-maria-jose/UNeXt-pytorch)
